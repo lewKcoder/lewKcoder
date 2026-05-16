@@ -23,6 +23,7 @@ I'm **LewKcoder**, a Frontend Developer from 🇯🇵 Japan.
 ## 🚀 Current Projects
 
 - 🛡️ [**acube**](https://github.com/lewKcoder/acube) – Security-first Rust server framework where forgetting security is a compile error
+- ❤️ [**OSHI**](https://chromewebstore.google.com/detail/oshi-%E2%80%94-%E3%82%B9%E3%83%86%E3%83%AB%E3%82%B9%E6%8E%A8%E3%81%97%E6%B4%BB%E3%83%84%E3%83%BC%E3%83%AB/enhpakgmmocopfeojihepklgaghfhfmg?authuser=0&hl=ja) - An app where your "oshi" quietly appears in the corner of your screen, making everyday life a little more special.
 - 🔍 [**Oculay**](https://chromewebstore.google.com/detail/oculay/paiadpkcoecodopflkdabkaebbilhjcm?authuser=0&hl=ja) – Comprehensive design inspector for seamless web development
 - 🧩 [**Front Template**](https://front-template-rouge.vercel.app/) – A showcase gallery to browse and preview various UI elements at a glance
 - 🎨 [**Chromix**](https://chromix.xyz/) – Easily experiment with color mixing and combinations
